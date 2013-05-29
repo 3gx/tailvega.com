@@ -6,7 +6,7 @@ AUTHOR = u'tailvega'
 SITENAME = u'Tailvega'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Amsterdam'
 
 DEFAULT_LANG = u'en'
 
@@ -16,16 +16,27 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+#LINKS =  (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
+LINKS= ()
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
+SOCIAL = ()
+
+#THEME = "../pelican-themes/fresh"
+#THEME = "../pelican-themes/irfan"
+#THEME = "../pelican-themes/relapse"
+#THEME = "../pelican-themes/sneakyidea"
+#THEME = "../pelican-themes/subtle"
+#THEME = "../pelican-themes/tuxlite_tbs"
+THEME = "./notmyidea"
+#THEME = "../pelican-themes/bootstrap2"
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True

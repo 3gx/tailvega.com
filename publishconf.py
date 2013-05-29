@@ -14,12 +14,14 @@ from pelicanconf import *
 #RELATIVE_URLS = False
 RELATIVE_URLS = True
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+#FEED_ALL_ATOM = 'feeds/all.atom.xml'
+#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 USE_FOLDER_AS_CATEGORY = True
+DISPLAY_PAGES_ON_MENU = True
 
 DELETE_OUTPUT_DIRECTORY = True
+
 
 # Following items are often useful when publishing
 
