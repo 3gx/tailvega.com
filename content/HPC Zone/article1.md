@@ -1,6 +1,5 @@
-Title: My super title
+Title: My HPC title
 Date: 2010-12-03 10:20
-Category: HPC Zone
 Tags: pelican, publishing
 Slug: my-super-post
 Author: hpczone

@@ -1,9 +1,8 @@
-My super title
-##############
+My volatile title
+#################
 
 :date: 2010-10-03 10:20
 :tags: thats, awesome
-:category: Volatility
 :slug: my-super-post
 :author: tailvega
 :summary: Short version for index and feeds
