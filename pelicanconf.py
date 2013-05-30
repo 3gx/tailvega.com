@@ -34,6 +34,8 @@ SOCIAL = ()
 #THEME = "../pelican-themes/subtle"
 #THEME = "../pelican-themes/tuxlite_tbs"
 THEME = "./notmyidea"
+THEME = "./bootstrap-jerrykan"
+#THEME = "./bootstrap2"
 #THEME = "../pelican-themes/bootstrap2"
 
 DEFAULT_PAGINATION = 10

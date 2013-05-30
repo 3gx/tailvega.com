@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="article">
+  {% include "article_header.html" %}
+
+  <h2>{{ article.title }}</h2>
+
+  {{ article.content }}
+
+  {% include "article_footer.html" %}
+
+  {% include "comments_disqus.html" %}
+</div>
+{% endblock %}
