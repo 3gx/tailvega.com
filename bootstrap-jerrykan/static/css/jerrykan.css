@@ -53,8 +53,8 @@ dd.article {
 /* Sidebar */
 li.tag-size1 { font-size: large; }
 li.tag-size2 { font-size: medium; }
-li.tag-size3 { font-size: x-small; }
-li.tag-size4 { font-size: xx-small; }
+li.tag-size3 { font-size: small; }
+li.tag-size4 { font-size: x-small; }
 
 .social a:before {
     margin-right: 6px;
