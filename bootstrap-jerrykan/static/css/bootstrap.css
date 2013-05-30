@@ -261,10 +261,10 @@ a:focus {
 .navbar-static-top .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 940px;
+  width: 900px;
 }
 .span12 {
-  width: 940px;
+  width: 900px;
 }
 .span11 {
   width: 860px;
@@ -291,7 +291,7 @@ a:focus {
   width: 300px;
 }
 .span3 {
-  width: 220px;
+  width: 180px;
 }
 .span2 {
   width: 140px;
@@ -3449,7 +3449,7 @@ input[type="submit"].btn.btn-mini {
   min-height: 40px;
   padding-left: 20px;
   padding-right: 20px;
-  width:940px;
+  width:900px;
   margin:0px auto;
   background-color: #fafafa;
   background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
@@ -3618,7 +3618,7 @@ input[type="submit"].btn.btn-mini {
 .navbar-static-top .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 940px;
+  width: 900px;
 }
 .navbar-fixed-top {
   top: 0;

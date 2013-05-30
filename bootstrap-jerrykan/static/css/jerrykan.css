@@ -48,6 +48,10 @@ dd.article {
     border-radius: 3px 3px 3px 3px;
     padding: 5px 9px;
 }
+.well-metadatax {
+    border-radius: 3px 3px 3px 3px;
+    padding: 0px 5px;
+}
 
 
 /* Sidebar */
