@@ -12,6 +12,12 @@
     <link href="{{ SITEURL }}/theme/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="{{ SITEURL }}/theme/css/pygments.min.css" rel="stylesheet" media="screen">
     <link href="{{ SITEURL }}/theme/css/jerrykan.css" rel="stylesheet" media="screen">
+    <style type="text/css">
+      body {
+        padding-top: 00px;
+        padding-bottom: 00px;
+      }
+    </style>
   </head>
   <body>
     <div class="navbar navbar-fixed-top">
@@ -59,14 +65,14 @@
         <!--        <h1>{{ SITENAME }}</h1> -->
         <br>
         <a href="{{ SITEURL }}">
-          <!--          <img src="{{ SITEURL }}/theme/img/header_158.jpg"> -->
           <img src="{{ SITEURL }}/theme/img/galaxy_blend1.jpg">
         </a>
       </div>
+       
 
       <div class="row">
         <!-- Content -->
-        <div class="span9">
+        <div class="span9" id="content">
           {% block content %}
           {% endblock %}
         </div>
@@ -88,7 +94,5 @@
         {% include "base_footer.html" %}
       </footer>
     </div>
-    <script src="{{ SITEURL }}/theme/js/jquery-1.7.2.min.js"></script>
-    <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
   </body>
 </html>
