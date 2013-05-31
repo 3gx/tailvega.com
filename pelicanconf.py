@@ -17,7 +17,8 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (('Github', 'http://github.com/egaburov'),
-          ('Bonsai', 'http://github.com/Treecode/'),)
+          ('Bonsai', 'http://github.com/Treecode'),
+          ('Zerohedge', 'http://www.zerohedge.com'),)
 #LINKS= ()
 
 # Social widget
