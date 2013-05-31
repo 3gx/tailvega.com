@@ -669,9 +669,9 @@ h4 small {
   font-size: 16px;
 }
 .page-header {
-  padding-bottom: 11px;
+  padding-bottom: 8px;
   margin: 24px 0 36px;
-  border-bottom: 1px solid #eeeeee;
+  border-bottom: 0px solid #eeeeee;
 }
 ul,
 ol {
