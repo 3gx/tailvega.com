@@ -1,20 +1,62 @@
-Title: Gold, 70's redux?
+Title: Has gold finally bottomed?
 Date: 2013-07-15
 Tags: gold, investing
 Slug: vol002
 Author: tailvega
-Summary: Gold, 70's redux?
+Summary: Has gold finally bottomed?
 
 
-<img src="/static/images/01-gold-bar.jpeg" style="float:left; margin:5px; width:128px; clear:left;" />
-I've doing some research to understand what has happened to gold price this
-year.
+<img src="/static/images/01-gold-bar.jpeg" style="float:left; margin:5px; width:100px; clear:left;" />
+Gold appears to be the most hated asset these days, no-one wants it or its
+derivatives, e.g. miners, at any prices no matter how low they are. This will
+stop, however, because the best cure for low prices is low prices.
 
-As it is well know, gold has lost more than 35% since its ~1900 high in summer
-of 2011, down to just under 1200 at the end of June. This is not far from ~50%
-correction that gold underwent during 1974-1976. The question that makes me
-wonder is the cause and sentiment is even remotely reminiscent to what we are
-having in 2013.
+Here are some facts:
 
-Behold, as I will post here some factual data about gold 2011-2013 and 1974-1976.
+  1. Gold has undergone over 35% correction from  all time nominal high
+     ~$1900/oz in August 2011. Up to know, the lowest tick was in the last days
+of June 2013 at just under ~$1200/oz below the [average production costs of
+~$1300/oz][zhcost].
 
+  2. What is more interesting, the gold forward offering ([GOFO][gofo]) rates
+     were in backwardation up to three month: as of today, the GOFO rates have
+been in a negative territory for more than a week. This has never happened
+before, and the few times that GOFO rate were negative for few days, namely in
+1999, 2001 & 2008, marked the bottom of gold correction.
+<img src="/static/images/vol002-goldchart.png" style="align:center; margin:5px; width:1024px; clear:left;" />
+
+  3. The large cap miners trade at [discount to their book value][miners]. This
+     is below what they were during the 2008 crash.
+
+  4. The gold miners bullish percent index was [zero several times][bpgdm]
+     in the  last half year. It's like no one wants to own gold stocks these
+days.
+
+  5. From the [commitment of traders report][cot] data, the number of
+     commercial net short positions is 19000 contracts (1.9m oz), the lowest
+since early 2000.
+
+  6. From the [Bank participation report][bpr], (major) US banks flipped from
+     net short to net to net long in gold in the last 6 month of this
+correction. Barring any conspiracy theories, one may only wonder if smart money
+know something that we don't.
+
+   7. Chinese demand for gold is [higher than ever][zhchina].
+
+Now matter how one twists these facts, several are clearly anomalous,
+others may be suspicious to say the least, especially given current
+macroeconomic climate. In light of this data, one might wonder whether gold is
+mispriced. The sentiment is clearly the worst, and as of this month [Rick Rule
+thinks][rickrule] we saw capitulation on behalf of the institutional investors.
+
+This makes me wonder if this is what makes a bottom in the market... 
+
+
+[rickrule]: http://bullmarketthinking.com/rick-rule-on-gold-resources-were-now-seeing-capitulation-by-institutional-investors/
+[gofo]: http://www.lbma.org.uk/pages/index.cfm?page_id=55&show=2013
+[miners]: http://www.caseyresearch.com/cdd/a-rare-anomaly-in-the-gold-market
+[zhcost]: http://www.zerohedge.com/news/2013-06-26/gold-drops-below-its-average-cash-cost
+[bpgdm]: http://stockcharts.com/h-sc/ui?s=%24BPGDM
+[cot]: http://news.goldseek.com/COT/
+[bpr]: http://www.cftc.gov/marketreports/bankparticipationreports/index.htm
+[zhchina]: http://www.zerohedge.com/news/2013-06-06/point-out-slump-chinese-gold-imports-chart

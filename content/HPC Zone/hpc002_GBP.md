@@ -6,16 +6,19 @@ Author: hpczone
 Summary:Our SC13 submission to GBP category
 
 
-<img src="/static/images/sc13_ph.png" style="float:left; margin: 5px; height: 64px; width: 64px;" />
-Today we received an email with sad news that our paper to SC13 in [Gordon Bell
-Prize][gbp] category was rejected :(
+<img src="/static/images/sc13_ph.png" style="float:left; margin: 10px; height: 80px; width: 80px;" />
+Today we received an email with sad news that our SC13 submission to [Gordon
+Bell Prize][gbp] category was rejected :(
 
-It was an amazing project with an ambitious aim to model [Milky Way Galaxy][mw] on
-star-by-star basis using the [Titan supercomputer][titan]. While we were not
-able to accomplish this for the paper submission deadline, I am sure the  team
-will simulate the full Galaxy in not that distant future on the full Titan.
+It was an amazing project with an ambitious goal to model [Milky Way Galaxy][mw] on
+star-by-star basis using the [Titan supercomputer][titan]. While we weren't
+able to accomplish this by the submission deadline (we simulated 64
+billion particle [Plummer model][plummer] on 4096 GPUs), I am quite confident
+in the team's ability to simulate the full Galaxy in not that distant future.
 
+Stay tuned, more updates will come.
 
+[plummer]: http://en.wikipedia.org/wiki/Plummer_model
 [gbp]: http://en.wikipedia.org/wiki/Gordon_Bell_Prize
 [mw]: https://en.wikipedia.org/wiki/Milky_Way
 [titan]: http://en.wikipedia.org/wiki/Titan_(supercomputer)
