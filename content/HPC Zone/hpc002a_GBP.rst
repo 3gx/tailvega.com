@@ -3,9 +3,10 @@ SC13 - Gordon Bell Prize submission
 
 :date: 2013-07-15 10:00
 :tags: HPC, GPU
-:slug: hpc002
+:slug: hpc002a
 :author: tailvega
 :summary: Our SC13 submission to GBP category
+:status: draft
 
 .. figure:: /static/images/sc13_ph.png
   :width: 128px
