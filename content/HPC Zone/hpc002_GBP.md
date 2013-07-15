@@ -6,7 +6,7 @@ Author: hpczone
 Summary:Our SC13 submission to GBP category
 
 
-<img src="static/images/sc13_ph.png" style="float:left; margin: 5px; height: 64px; width: 64px;" />
+<img src="/static/images/sc13_ph.png" style="float:left; margin: 5px; height: 64px; width: 64px;" />
 Today we received an email with sad news that our paper to SC13 in [Gordon Bell
 Prize][gbp] category was rejected :(
 
