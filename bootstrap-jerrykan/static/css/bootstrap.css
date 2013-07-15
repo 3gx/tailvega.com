@@ -19,6 +19,11 @@
 .clearfix:after {
   clear: both;
 }
+.align-left 
+{
+  margin:5px;
+  float:left;
+}
 .hide-text {
   font: 0/0 a;
   color: transparent;
