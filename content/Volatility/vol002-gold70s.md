@@ -51,7 +51,7 @@ macroeconomic enironment. In light of this, one might wonder whether gold is
 mispriced. The sentiment is negative, and as of this month [Rick Rule
 thinks][rickrule] we saw capitulation on behalf of the institutional investors.
 
-This makes me wonder if this is what makes a bottom in the market... 
+This makes me wonder if this is what makes market bottom...
 
 
 [rickrule]: http://bullmarketthinking.com/rick-rule-on-gold-resources-were-now-seeing-capitulation-by-institutional-investors/
