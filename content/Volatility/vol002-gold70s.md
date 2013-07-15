@@ -43,10 +43,10 @@ know something that we don't.
 
    7. Chinese demand for gold is [higher than ever][zhchina].
 
-Now matter how one twists these facts, several are clearly anomalous,
-others may be suspicious to say the least, especially given current
-macroeconomic climate. In light of this data, one might wonder whether gold is
-mispriced. The sentiment is clearly the worst, and as of this month [Rick Rule
+No matter how one twists this data, some is clearly anomalous,
+other may be suspicious to say the least, especially given current
+macroeconomic enironment. In light of this, one might wonder whether gold is
+mispriced. The sentiment is negative, and as of this month [Rick Rule
 thinks][rickrule] we saw capitulation on behalf of the institutional investors.
 
 This makes me wonder if this is what makes a bottom in the market... 
