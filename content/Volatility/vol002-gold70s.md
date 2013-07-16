@@ -21,9 +21,11 @@ of June 2013 at just under ~$1200/oz below the [average production costs of
   2. What is more interesting, the gold forward offering ([GOFO][gofo]) rates
      were in backwardation up to three month: as of today, the GOFO rates have
 been in a negative territory for more than a week. This has never happened
-before, and the few times that GOFO rate were negative for few days, namely in
+before, and the few times that GOFO rate were negative [for few days][zfgofo], namely in
 1999, 2001 & 2008, marked the bottom of gold correction.
-<div><img src="/static/images/vol002-goldchart.png" style="align:center; margin:5px; width:1024px; clear:left;" /></div>
+<div><img src="/static/images/vol002-goldchart.png" style="align:center; margin:5px; width:1024px; clear:left;" />
+<a href="http://www.zerohedge.com/news/2013-07-08/historic-inversion-gold-gofo-rates-turn-negative-first-time-lehman"><img src="/static/images/vol002-gofo.jpg" style="align:center; margin:5px; width:700px; clear:left;" /></a>
+</div>
 
   3. The large cap miners trade at [discount to their book value][miners]. This
      is below what they were during the 2008 crash.
@@ -63,3 +65,4 @@ This makes me wonder if this is how  market bottom looks...
 [bpr]: http://www.cftc.gov/marketreports/bankparticipationreports/index.htm
 [zhchina]: http://www.zerohedge.com/news/2013-06-06/point-out-slump-chinese-gold-imports-chart
 [bpr1]: https://www.tfmetalsreport.com/comment/329723
+[zhgofo]: http://www.zerohedge.com/news/2013-07-08/historic-inversion-gold-gofo-rates-turn-negative-first-time-lehman
