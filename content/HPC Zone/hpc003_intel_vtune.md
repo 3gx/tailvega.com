@@ -31,9 +31,9 @@ This is the only library that is found while grepping "Logging fork" in Intel's
 stuff. I know that VTune XE works fine with Intel Composer XE 2013 update 13
 (compiler version 13.1.3), so I just copied libiomp5.so 
 
-    cp /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/mic/libiomp5.so   /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/mic/
-    cp /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/ia32/libiomp5.so   /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/ia32/
-    cp /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/intel64/libiomp5.so   /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/mic/
+    cp /opt/intel/composer_xe_2013_sp1.0.051/compiler/lib/mic/libiomp5.so   /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/mic/
+    cp /opt/intel/composer_xe_2013_sp1.0.051/compiler/lib/ia32/libiomp5.so   /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/ia32/
+    cp /opt/intel/composer_xe_2013_sp1.0.051/compiler/lib/intel64/libiomp5.so   /opt/intel/composer_xe_2013_sp1.0.080/compiler/lib/mic/
 
 This allows to use both Intel compiler 14.0.0 and profile the app in VTune.
 Hopefully intel will fix bug soon ...
