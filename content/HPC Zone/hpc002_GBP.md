@@ -6,7 +6,7 @@ Author: hpczone
 Summary:Our SC13 submission to GBP category
 
 
-<img src="/static/images/sc13_ph.png" style="float:left; margin: 10px; height: 80px; width: 80px;" />
+<img src="/images/sc13_ph.png" style="float:left; margin: 10px; height: 80px; width: 80px;" />
 Today we received an email with sad news that our SC13 submission to [Gordon
 Bell Prize][gbp] category was rejected :(
 
@@ -22,6 +22,6 @@ Stay tuned, more updates will come.
 [gbp]: http://en.wikipedia.org/wiki/Gordon_Bell_Prize
 [mw]: https://en.wikipedia.org/wiki/Milky_Way
 [titan]: http://en.wikipedia.org/wiki/Titan_(supercomputer)
-[ph]: /static/images/sc13_ph.png "width: 64px"
+[ph]: /images/sc13_ph.png "width: 64px"
 
 

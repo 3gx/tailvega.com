@@ -8,7 +8,7 @@ SC13 - Gordon Bell Prize submission
 :summary: Our SC13 submission to GBP category
 :status: draft
 
-.. figure:: /static/images/sc13_ph.png
+.. figure:: /images/sc13_ph.png
   :width: 128px
   :height: 128px
   :align: left
