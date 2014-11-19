@@ -9,7 +9,6 @@ Author: hpczone
 Last year we tried, but did not succeed. This year is different, and our
 submission was selected as a finalist for the [Gordon Bell Prize][gbp] at
 the [Supercomputing 2014][sc14] conference.
-<!-- PELICAN_END_SUMMARY -->
 
 It was an amazing project with an ambitious goal to model the [Milky Way
 Galaxy][mw] on a star-by-star basis using the [Titan supercomputer][titan].
@@ -23,6 +22,8 @@ Once  the team will be able to secure more compute time, we have all the tools
 at our disposal to simulate the Milky Way with about 50 billion stars (or about
 300 billion
 particles in total, most of the particle will comprise Dark Matter).
+
+<!-- PELICAN_END_SUMMARY -->
 
 [gbp]: http://en.wikipedia.org/wiki/Gordon_Bell_Prize
 [mw]: https://en.wikipedia.org/wiki/Milky_Way
