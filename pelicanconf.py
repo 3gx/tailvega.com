@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'tailvega'
 SITENAME = u'Tailvega'
-SITEURL = ''
+SITEURL = 'http://www.tailvega.com'
+
 
 TIMEZONE = 'Europe/Amsterdam'
 
@@ -26,16 +27,8 @@ LINKS =  (('Github', 'http://github.com/egaburov'),
 #          ('Another social link', '#'),)
 SOCIAL = ()
 
-#THEME = "../pelican-themes/fresh"
-#THEME = "../pelican-themes/irfan"
-#THEME = "../pelican-themes/relapse"
-#THEME = "../pelican-themes/sneakyidea"
-#THEME = "../pelican-themes/subtle"
-#THEME = "../pelican-themes/tuxlite_tbs"
-#THEME = "./notmyidea"
 THEME = "./bootstrap-jerrykan"
-#THEME = "./bootstrap2"
-#THEME = "../pelican-themes/bootstrap2"
+#THEME = "./foundation-default-colours"
 
 DEFAULT_PAGINATION = 10
 
@@ -43,3 +36,8 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 STATIC_PATHS = ["images"]
+
+PLUGIN_PATHS = ['/Users/eg/Documents/virtualenvs/pelican/pelican-plugins']
+#PLUGINS = ['latex', 'neighbors', 'summary']
+PLUGINS = ['latex', 'summary']
+SUMMARY_MAX_LENGTH = 50

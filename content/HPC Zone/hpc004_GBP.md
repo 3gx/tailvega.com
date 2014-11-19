@@ -3,13 +3,13 @@ Date: 2014-07-15
 Tags: HPC, GPU
 Slug: hpc004
 Author: hpczone
-Summary: SC14 Gordon Bell Prize finalists
 
-
+<!-- PELICAN_BEGIN_SUMMARY -->
 <img src="/images/mw-gbp.png" style="float:left; margin: 4px; height: 160px; width: 160px;" />
 Last year we tried, but did not succeed. This year is different, and our
 submission was selected as a finalist for the [Gordon Bell Prize][gbp] at
 the [Supercomputing 2014][sc14] conference.
+<!-- PELICAN_END_SUMMARY -->
 
 It was an amazing project with an ambitious goal to model the [Milky Way
 Galaxy][mw] on a star-by-star basis using the [Titan supercomputer][titan].
@@ -29,6 +29,6 @@ particles in total, most of the particle will comprise Dark Matter).
 [titan]: http://en.wikipedia.org/wiki/Titan_(supercomputer)
 [piz]: http://en.wikipedia.org/wiki/Swiss_National_Supercomputing_Centre
 [ph]: /images/mw-gbp.png "width: 64px"
-[sc14]: http://sc14.supercomputing.org/
+[sc14]: http://sc14.supercomputing.org/schedule/event_detail?evid=gb108
 
 

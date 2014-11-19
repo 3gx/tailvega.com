@@ -6,7 +6,7 @@ My volatile title
 :slug: volatility-001
 :category: Volatility
 :author: tailvega
-:summary: Short version for index and feeds
+:summary: First volatile post
 
 This will be turned into :abbr:`HTML (HyperText Markup Language)`.
 

@@ -4,7 +4,9 @@
 
     {% include "article_header.html" %}
 
-    {{ article.content }}
+    {{ article.summary }} 
+		{# add a 'Continue reading' link if we're displaying summaries #}
+		<p class="continue"><a href="{{ SITEURL }}/{{ article.url }}">Continue reading &raquo;</a></p>
 
     {% include "article_footer.html" %}
   </div>

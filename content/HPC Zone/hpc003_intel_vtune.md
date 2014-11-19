@@ -3,10 +3,11 @@ Date: 2013-07-17
 Tags: HPC, Intel, YAR
 Slug: hpc003
 Author: hpczone
-Summary: Intel Composer XE 2013 SP1 & VTune
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 After long delay, I am finally able to write something here.. Last few days I
 spent figuring out why VTune 2013 U12 & 13 freezes after profiling an app..
+<!-- PELICAN_END_SUMMARY -->
 
 To make long story short, on some OpenMP applications Intel Compose XE 2013 SP1
 (compiler version 14.0.0) doesn't play well with VTune XE 2013. The sympots of

@@ -3,13 +3,14 @@ Date: 2013-07-15
 Tags: gold, investing
 Slug: vol002
 Author: tailvega
-Summary: Has gold finally bottomed?
 
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 <img src="/images/01-gold-bar.jpeg" style="float:left; margin:5px; width:100px; clear:left;" />
 Gold appears to be the most hated asset these days, no-one wants it or its
 derivatives, e.g. miners, at any prices no matter how low they are. This will
 stop, however, because the best cure for low prices is low prices.
+<!-- PELICAN_END_SUMMARY -->
 
 Here are some facts:
 
