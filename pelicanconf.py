@@ -17,7 +17,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Github', 'http://github.com/egaburov'),
+LINKS =  (('Parallel thinking', 'http://tailvega.com/hpc'),
+          ('Github', 'http://github.com/egaburov'),
           ('Bonsai', 'http://github.com/Treecode'),
           ('Zerohedge', 'http://www.zerohedge.com'),)
 #LINKS= ()
