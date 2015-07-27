@@ -1,7 +1,7 @@
 tailvega.com
 ============
 
-tailevega homepage
+tailvega homepage
 
 fetch plugins from:
 
