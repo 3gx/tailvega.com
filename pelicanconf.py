@@ -37,7 +37,7 @@ RELATIVE_URLS = True
 
 STATIC_PATHS = ["images"]
 
-PLUGIN_PATHS = ['/Users/eg/Documents/virtualenvs/pelican/pelican-plugins']
+PLUGIN_PATHS = ['/Users/evghenii/Work/web/pelican/pelican-plugins']
 #PLUGINS = ['latex', 'neighbors', 'summary']
 PLUGINS = ['latex', 'summary']
 SUMMARY_MAX_LENGTH = 50
