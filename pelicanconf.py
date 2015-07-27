@@ -17,7 +17,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Parallel thinking', 'http://tailvega.com/hpc'),
+LINKS =  (('ParallelThinking', 'http://parallelthinking.org'),
           ('Github', 'http://github.com/egaburov'),
           ('Bonsai', 'http://github.com/Treecode'),
           ('Zerohedge', 'http://www.zerohedge.com'),)

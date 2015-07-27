@@ -12,6 +12,7 @@ SC13 - Gordon Bell Prize submission
   :width: 128px
   :height: 128px
   :align: left
+  :alt: crp
 
 Today we received an email with sad news that our paper to SC13 in `Gordon
 Bell Prize`_ category was rejected :(
